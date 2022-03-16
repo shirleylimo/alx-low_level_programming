@@ -1,4 +1,4 @@
-#incltpude "_putchar.h"
+#include "main.h"
 
 /**
  * main - Entry point
@@ -7,7 +7,7 @@
 
 int main(void)
 {
- char [8] = "_putchar";
+	char c[8] = "_putchar";
 	int i = 0;
 
 	while (i < 8)
