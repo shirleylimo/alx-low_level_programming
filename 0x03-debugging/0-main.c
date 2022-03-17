@@ -1,4 +1,4 @@
-v#include "main.h"
+#include "main.h"
 
 /**
  * main - will test the function that prints whether
